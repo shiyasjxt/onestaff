@@ -1,0 +1,234 @@
+
+@media (max-width:1850px) {
+    .banner-main .slide .slider-caption h2 {font-size: 52px;}
+    .banner-main .slide .slider-caption {width: 380px;left: 280px;}
+    .banner-main .slide .slider-caption.caption-more {width: 540px;left: 950px;}
+    .banner-main .slide.slide-right .slider-caption {right: 280px;}
+    .banner-main .slide.slide-right .slider-caption.caption-more {right: 950px;}
+}
+@media (max-width:1600px) {
+    .banner-main .slide .slider-caption h2 {font-size: 42px;}
+    .banner-main .slide .slider-caption {width: 340px;left: 280px;}
+    .banner-main .slide .slider-caption.caption-more {width: 450px;left: 880px;}
+    .banner-main .slide.slide-right .slider-caption {right: 280px;}
+    .banner-main .slide.slide-right .slider-caption.caption-more {right: 880px;}
+    .banner-main .slide .slider-caption .btn-primary {font-size: 18px;}
+    .banner-main .slide .slider-caption p {margin-bottom: 30px;}
+}
+@media (max-width:1400px) {
+    .banner-main .slide .slider-caption h2 {font-size: 38px;}
+    .banner-main .slide .slider-caption {width: 300px;left: 230px;}
+    .banner-main .slide .slider-caption.caption-more {width: 400px;left: 720px;}
+    .banner-main .slide.slide-right .slider-caption {right: 230px;}
+    .banner-main .slide.slide-right .slider-caption.caption-more {right: 720px;}
+    .banner-main .slide .slider-caption .btn-primary {font-size: 17px;padding: 8px 30px;}
+    .banner-main .slide .slider-caption p {margin-bottom: 25px;font-size: 16px;}
+    .arrow-box {margin: -40px 0 0 -40px;width: 80px;height: 80px;}
+    .arrow-box .arrow1, .arrow-box .arrow2 {background-size: auto 20px;}
+}
+@media (max-width:1199px) {
+    body {padding-top: 117px;}
+    .navbar-nav {margin-top: 5px;margin-left: 30px;}
+    .navbar .nav > li > a {font-size: 13px;padding: 5px 8px;}
+
+    /*#prefix_home-container h2, .h-section h2 {font-size: 42px;}*/
+    .h-qlinks a {font-size: 22px;}
+
+    .strapslide-container .slide-text h2 { font-size:40px; line-height:50px; margin-bottom:5px; }
+    .strapslide-container .slide-text p { font-size:28px; }
+    #SlideText1 { top:25% !important; }
+    #SlideText2 { top:37% !important; }
+    #SlideText5 { top:28% !important; }
+    .strapslide .background-blue { padding:33px; }
+
+    #moreinfo {padding: 40px 0 10px;}
+    #moreinfo .foo-info h3 {font-size: 20px;margin-bottom: 15px;}
+
+    /*.banner-main .slide .slider-caption h2 {font-size: 55px;}*/
+    /*.banner-main .slide .slider-caption p {font-size: 17px;}*/
+
+    #prefix_left-navigation ul li a, .links-2 ul li a {font-size: 15px;}
+    .dynamic-content-holder h1, .content-holder h1 {font-size: 42px;margin-bottom: 35px;}
+    #prefix_left-navigation ul li ul li a, .links-2 ul li ul li a {padding: 8px 0 8px 20px;}
+
+    .qlinks-inner {margin-top: 60px;}
+    .jobs-intro {padding-bottom: 30px;margin-bottom: 40px;}
+    .sec-latest-jobs h2 {font-size: 30px;margin-bottom: 40px;}
+    .h-section.section-jobfeed .row {padding: 40px 0;}
+
+    .news h2 {font-size: 32px;margin-bottom: 40px;}
+
+    .banner-main .slide .slider-caption h2 {font-size: 38px;}
+    .banner-main .slide .slider-caption h2 br {display: none;}
+    .banner-main .slide .slider-caption {width: 333px;left: 95px;} 
+    .banner-main .slide .slider-caption.caption-more {width: 330px;left: 610px;}
+    .banner-main .slide.slide-right .slider-caption {right: 95px;}
+    .banner-main .slide.slide-right .slider-caption.caption-more {right: 610px;}
+    .banner-main .slide .slider-caption .btn-primary {font-size: 16px;padding: 8px 20px;}
+}
+
+@media (max-width:991px) {
+
+    .navbar-toggle {background-color: #006b9f;border-radius: 0;float: right;clear: right;margin-top: 10px;}
+    .navbar-collapse { margin-top:10px; box-shadow:none; }
+    .navbar-collapse.collapse { float:none; }
+    .navbar-nav {float: none;margin: 0;}
+    #site-topnav .nav a {text-align: left;}
+    .navbar-nav li { border-top: 1px solid #F5F5F5; }
+    .navbar-nav > li > .dropdown-menu { background:#f7f7f7 !important; }
+    .navbar-nav > li > .dropdown-menu, .navbar-nav > li > .dropdown-menu li { padding:0; background-color: #FFF; }
+    .navbar-nav > li > .dropdown-menu li a:hover, .navbar-nav > li > .dropdown-menu li a:focus, .navbar-nav > li > .dropdown-menu li.active a { background:#006b9e !important; }
+
+    #prefix_footer-container #site-social li { margin-left:0; }
+
+
+    a#child-menu { padding:0 15px; }
+    #child-menu:hover { background:none !important; }
+    a#child-menu:hover, a#child-menu:focus { background:inherit !important; }
+/*    #disc-links.list-inline > li { padding-right:0; }*/
+    #disc-links.list-inline > li a { font-size:12px; line-height:12px; }
+    /*#disc-links { margin: 20px 0 8px; }*/
+    .footer-logo img { width:100%; }
+    .condidates { padding:60px 0; }
+    /*#disclaimer #site-social { margin-top:20px; }*/
+    #prefix_footer-container #site-social li a i { font-size:15px; }
+
+    .strapslide-container .slide-text h2 { font-size:28px; line-height:30px; }
+    .strapslide-container .slide-text p { font-size:20px; line-height:22px; }
+    #SlideText1, #SlideText2, #SlideText3, #SlideText4, #SlideText5 { top:24% !important; }
+
+    /*#prefix_home-container h2, .h-section h2 {font-size: 38px;}*/
+    /*.styled-desc {font-size: 16px;}*/
+
+    .section-intro {padding: 55px 0 10px;}
+    .section-intro .styled-desc {padding-bottom: 20px;}
+
+    .h-section .row.h-qlinks {padding: 0;}
+
+    .section-service .styled-desc {margin-bottom: 40px;}
+
+    #myJobsList .rss-item-pubDate {width: 70px;height: 70px;font-size: 16px;padding: 15px 0;}
+    #myJobsList .rss-item-title {padding-left: 85px;}
+    #myJobsList .rss-item-description {padding-left: 85px;}
+
+    #widget-search {padding: 30px 0 15px;}
+    #widget-search .form-group {margin-bottom: 15px;}
+
+    .dynamic-content-holder h1, .content-holder h1 {font-size: 38px;margin-bottom: 30px;}
+    .dynamic-content-holder h2 {font-size: 24px;}
+
+    .qlinks-inner {margin-top: 40px;}
+    .qlinks-inner .service-box {padding: 15px;}
+    .qlinks-inner .service-icon {width: 90px;height: 90px;padding: 16px 0;}
+    .qlinks-inner .service-icon img {max-width: 50px;}
+    .qlinks-inner h3 {font-size: 16px;}
+    .qlinks-inner h3 a {min-width: 150px;}
+    .btn-primary {padding: 8px 20px;}
+    .qlinks-inner .btn {font-size: 13px;}
+
+    .jobs-intro {padding-bottom: 10px;margin-bottom: 30px;}
+    .sec-latest-jobs h2 {margin-bottom: 30px;}
+    .sec-latest-jobs #myJobsList li {padding-bottom: 20px;}
+
+    .news-individual-container {padding-bottom: 10px;}
+    .news h2 {font-size: 28px;margin-bottom: 30px;}
+
+    .banner-main .slide .slider-caption h2 {font-size: 32px;}
+    .banner-main .slide .slider-caption {width: 300px;left: 35px;top: 30%;}
+    .banner-main .slide .slider-caption.caption-more {width: 280px;left: 500px;top: 30%;}
+    .banner-main .slide.slide-right .slider-caption {right: 35px;}
+    .banner-main .slide.slide-right .slider-caption.caption-more {right: 500px;}
+    .banner-main .slide .slider-caption .btn-primary {font-size: 15px;padding: 6px 15px;}
+}
+@media (max-width:860px) {
+    .banner-main .slide .slider-caption.caption-more {left: 430px;}
+    .banner-main .slide.slide-right .slider-caption.caption-more {right: 430px;}
+}
+@media (max-width:767px) {
+    body { padding-top:0; }
+    .navbar-brand { width:180px; }
+
+    .h-section h2 {margin-bottom: 15px;}
+
+    .section-intro {padding-top: 40px;}
+
+/*
+    #myJobsList li {width: 100%;}
+    #myJobsList li:not(:last-of-type) {margin-bottom: 20px;}*/
+
+
+    .strapslide-container .slide-text h2 { font-size:20px !important; line-height:24px; }
+    #SlideText1, #SlideText2, #SlideText3, #SlideText4, #SlideText5 { top:35% !important; }
+    .strapslide .background-blue { padding:13px; }
+    .strapslide .row { width:98% !important; }
+
+    .navigation { background:#b0b4b3; }
+
+    #moreinfo {padding: 20px 0 10px;}
+    #prefix_footer-container #site-social li { margin-left:7px; }
+    #prefix_footer-container #site-social li {margin-left: 4px;}
+
+    .banner-main {display: none;}
+    #widget-search {padding: 45px 0 30px;}
+
+    .navigation {background: #F2F2F2;border: 1px solid #31708f;border-radius: 0;color: #000;}
+    #dynamic-container, #content-container, #job-dynamic-container {padding-top: 30px;padding-bottom: 30px;}
+    .dynamic-content-holder h1, .content-holder h1 {font-size: 36px;margin-bottom: 20px;}
+
+    .btn-primary {padding: 7px 15px;}
+    .qlinks-inner {margin-top: 30px;}
+    .qlinks-inner .service-box {margin-bottom: 30px;}
+
+    .news-individual-container {padding-bottom: 0;margin: 20px 0;}
+    .news h2 {font-size: 26px;margin-bottom: 20px;}
+    .content-holder p {margin: 0 0 20px;}
+
+    .addr-dtl h2 {font-size: 22px;}
+    .addr-dtl [class*="col-"] {margin-bottom: 20px;}
+    .dynamic-content-holder .contact-dtl h2 {margin-bottom: 10px;}
+}
+@media (max-width:480px) {
+    .navbar-fixed-top { padding:15px 0; }
+
+    .listing-pages li { display:block; }
+    .footer-logo img { width:150px; }
+
+    .h-section .row.h-qlinks [class*="col-"] {width: 80%;float: none;margin: 0 auto;}
+    .h-qlinks a {padding: 40px 0;}
+
+    #disclaimer [class*="col-"] {width: 100%;}
+    #disc-links.list-inline > li {display: block;margin: 0 0 10px;padding: 0;}
+    #disc-links li:not(:last-of-type)::after {display: none;}
+
+    .inner_banner {height: auto; padding: 30px 0; background-size: cover;}
+    .dynamic-content-holder h1, .content-holder h1 {font-size: 32px;margin-bottom: 15px;}
+    .dynamic-content-holder h2 {font-size: 22px;}
+    .dynamic-content-holder p {margin-bottom: 15px;}
+
+    .qlinks-inner [class*="col-"] {width: 100%;}
+    .jobs-intro {padding-bottom: 0;margin-bottom: 20px;}
+    .sec-latest-jobs h2 {margin-bottom: 20px;}
+    .sec-latest-jobs #myJobsList li {padding-bottom: 10px;}
+
+    .news-individual-container .news-date {width: 70px;height: 70px;font-size: 10px;}
+    .news-individual-container .news-excerpt {padding-left: 80px;}
+    .news-individual-container .news-excerpt h3 {font-size: 21px;}
+    .newsIndex .search-options {float: none;margin: 0;}
+
+    .news h2 {font-size: 24px;margin-bottom: 15px;}
+
+    .addr-dtl [class*="col-"] {width: 100%;margin-bottom: 15px;}
+}
+@media (max-width:384px) {
+    .navbar-brand {width: 140px;margin: 10px 0 0;}
+    .top-right {padding: 35px 0;margin-left: 0;}
+    .top-right li a {padding: 0 5px;font-size: 13px;}
+    #prefix_home-container h2, .h-section h2 {font-size: 36px;}
+    .styled-desc {font-size: 16px;}
+    #widget-search {padding: 30px 0 15px;}
+
+    .dynamic-content-holder h1, .content-holder h1 {font-size: 28px;}
+    .dynamic-content-holder h2 {font-size: 22px;}
+
+    .dynamic-content-holder .contact-dtl h2 {font-size: 20px;}
+}
