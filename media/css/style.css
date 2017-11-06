@@ -712,7 +712,20 @@ body {
     font-size: 1.5em;
 }
 /* end JXT Custome */
-
+/* Awards on Home Page */
+.awards-list li {
+    margin-right: 25px;
+    float: left;
+    width: 200px;
+    list-style-type: none;
+}
+.gallery.t-gallery-awards .crsl-wrap{
+    min-width: 3000px !important;
+}
+.awards-list .crsl-nav a{
+    bottom: 25%;
+}
+/* Awards on Home Page */
 @media (max-width: 1260px) {
     .crsl-nav a {
         bottom: 105%;
