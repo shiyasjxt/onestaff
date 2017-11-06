@@ -221,6 +221,7 @@ function blog_posts(obj)
 		
 		// Home services - carousel
 		$('.t-gallery').Gallerycarousel({ autoRotate: 4000, visible: 4, speed: 1200, easing: 'easeOutExpo', itemMinWidth: 250, itemMargin: 30 })
+		$('.t-gallery-awards').Gallerycarousel({ autoRotate: 4000, visible: 5, speed: 1200, easing: 'easeOutExpo', itemMinWidth: 180, itemMargin: 5 })
 		
 		
 		// Latest Jobs widget
@@ -239,7 +240,12 @@ function blog_posts(obj)
 				}
 			}
 		});
-		
+		// Awards list on Home Page
+	/* $(".awards-list ul").each(function() {
+                if ($(this).children().length > 3) {
+                       $(this).simplyScroll({frameRate: 90})
+                      } 
+          });*/
 	// Equal Height	
 	$.fn.eqHeights = function(options) {
 	
